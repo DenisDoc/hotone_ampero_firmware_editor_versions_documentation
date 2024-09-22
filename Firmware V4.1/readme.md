@@ -5,15 +5,14 @@ Notes:
 - On the website you will see a typo in: "Download Ampero Editor V1.3.2 For Mac >"
 - The link will download the Editor V1.4.0 that has support for Firmware V4.1
 
-Download Ampero Editor V1.4.0 For Windows
+Download Ampero Editor V1.4.0 For Windows ->
 https://hotoneaudio.oss-accelerate.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%20V1.4.0%20for%20Windows.1691640292224.zip
 
-Download Ampero Editor V1.4.0 For Mac
+Download Ampero Editor V1.4.0 For Mac ->
 https://hotoneaudio.oss-accelerate.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%20V1.4.0%20for%20Mac.1691723489832.zip
-// -------------------------------------------------------------------------
 
 
-Release notes --- Ampero Firmware Version 4.1:
+------------- Release notes --- Ampero Firmware Version 4.1: -------------
 
 This V4.1 firmware update brings you new effects, more powerful features, optimized system performance and bug fixes. We recommend all users to execute this update for the best possible user experience.
 
