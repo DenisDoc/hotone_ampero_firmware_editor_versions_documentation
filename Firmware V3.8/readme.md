@@ -4,15 +4,15 @@ Notes:
 
 - Jump from editor V1.2.8 to V1.3.0
 
-Download Ampero Editor V1.3.0 For Windows
+Download Ampero Editor V1.3.0 For Windows ->
 https://hotoneaudio.oss-cn-shenzhen.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%201.3.0%20for%20Windows.1623122082082.zip
 
-Download Ampero Editor V1.3.0 For Mac
+Download Ampero Editor V1.3.0 For Mac ->
 https://hotoneaudio.oss-cn-shenzhen.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%20V1.3.0%20for%20Mac.1619572594773.zip
 
 // -------------------------------------------------------------------------
 
-Release notes --- Ampero Firmware Version 3.8:
+------------- Release notes --- Ampero Firmware Version 3.8: -------------
 
 Attention
 This Ampero V3.8 firmware update brings you new effects, more powerful features (e.g. 10 more user IR slots and low/high cut control), optimized system performance and bug fixes. We recommend all Ampero users to execute this update for the best possible user experience.
