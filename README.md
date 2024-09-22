@@ -7,6 +7,7 @@ Notes:
 - Each folder contains the firware.bin file and a readme.md that contains Editor download links and the firmware Release notes, other notes and information.
 
 Update firmware:
+
 Step 1: 
 
 <img width="664" alt="Screenshot 2024-09-22 at 14 55 16" src="https://github.com/user-attachments/assets/4c069e27-5b82-4b0c-b5b0-721cbe16a450">
