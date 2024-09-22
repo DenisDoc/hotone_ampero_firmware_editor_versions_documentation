@@ -10,15 +10,14 @@ Notes:
   https://www.hotone.com/products/multi-effects/ampero/ampero-firmware-release-note
 - The only Firmware you can find on the website with the V3.9 is for Ampero Silver Edition
 
-Download Ampero Editor V1.3.1 For Windows
+Download Ampero Editor V1.3.1 For Windows ->
 https://hotoneaudio.oss-cn-shenzhen.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%20V1.3.1%20for%20Windows.1665216977154.zip
 
-Download Ampero Editor V1.3.1 For Mac
+Download Ampero Editor V1.3.1 For Mac ->
 https://hotoneaudio.oss-cn-shenzhen.aliyuncs.com/prod/support/Ampero%20Editor%20Setup%20V1.3.1%20for%20Mac.1665215453974.zip
 
-// -------------------------------------------------------------------------
 
-Release notes --- Ampero Firmware Version 3.8SP1 :
+------------- Release notes --- Ampero Firmware Version 3.8SP1: -------------
 
 Attention
 If your Ampero's current firmware is V3.7 or earlier (if your Ampero's current firmware version is lower than V3.0, please read history firmware release note first and DO NOT update to V3.8SP1 directly), please read the "IMPORTANT" below carefully. If your Ampero's current firmware is V3.8, you only need to update it normally.
