@@ -6,6 +6,13 @@ Notes:
 
 - Each folder contains the firware.bin file and a readme.md that contains Editor download links and the firmware Release notes, other notes and information.
 
+IMPORTANT:
+
+– RE-CALIBRATE THE BUILT-IN EXPRESSION PEDAL AFTER UPDATE(CTRL/EXP > EXP 1 Settings > Calibrate) since we optimized the built-in expression pedal with a new method.
+
+- Export all patches by using previous Ampero Editor before updating, thenimport them again via new Ampero Editor. The Editor will automatically convert your old patch files to the new version, so that you can use them with the new firmware. (In case you forget i also added the default patches)
+
+
 Update firmware:
 
 Step 1: 
